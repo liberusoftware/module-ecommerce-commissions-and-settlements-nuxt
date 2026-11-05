@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-commissions-and-settlements-nuxt",
+  "capabilityKey": "planned:ecommerce:commissions-and-settlements",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-commissions-and-settlements-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/commissions-and-settlements.md",
+  "presentationPlan": "projects/ecommerce/nuxt/commissions-and-settlements.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
